@@ -11,7 +11,7 @@
 
 ** There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps). While navigating the timelines, you will see superscripts next to those locations: ¹ (cf. World map), ² (cf. Lebanon's map), or ³ (cf. Beirut's map).
 
-** There is 1 visual/plot of all political parties (not only Lebanese parties) which were mentioned in the 7 timelines, including coalitions of parties.
+** There is 1 plot of all political parties (not only Lebanese) which were mentioned in the 7 timelines, including coalitions of parties.
 
 ** When an event that shows up on a given timeline is disputed, we add the '*' sign next to it.
 
