@@ -15,4 +15,4 @@
 
 ** When an event that shows up on a given timeline is disputed, we add the '*' sign next to it.
 
-** For a full experience, users must be connected to the internet while navigating timelines, as we often add interactive images from the web.
+** Users must be connected to the internet while navigating timelines, as interactive images from the web are often added for more context.
