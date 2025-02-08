@@ -17,7 +17,7 @@
 -) There is 1 INTERACTIVE plot of all political parties, militias, and coalitions that were mentioned in the timelines:
 - You can click on legend items to only display specific visual artefacts for better visibility
 - You can hover over horizontal bars to see more info on the political party of militia (e.g., flag, full name, religion, ...)
-- You will see on the y-axis arrows going from political parties and their directly associated militias
+- To better visualize political parties and their directly associated militias, there are arrows on the y-axis AND thick red lines on the plot
 
 -) The online reference of every event that appears on the timeline, as well as the full description of abbreviations, acronyms and symbols that are used can be seen right under the timeline plots (in each of the 7 timelines).
 
