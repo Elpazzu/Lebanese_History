@@ -9,7 +9,9 @@
 ## Disclaimers
 ** All timelines are about events happening WITHIN PRESENT-DAY LEBANESE TERRITORY, with some exceptions for external events that are important to understand internal developments (e.g., PLO's attack in the Munich olympics triggered retaliations inside Lebanese territory).
 
-** There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps). While navigating the timelines, you will see superscripts next to those locations: ¹ (cf. World map), ² (cf. Lebanon's map), or ³ (cf. Beirut's map).
+** There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps):
+    ** While navigating the timelines, you will see superscripts next to locations: ¹ (cf. World map), ² (cf. Lebanon's map), or ³ (cf. Beirut's map)
+    ** In the maps, some locations will be in capital letters (=region), italic (=sea), regular characters (=city), or between brackets (=place)
 
 ** There is 1 plot of all political parties (not only Lebanese) which were mentioned in the 7 timelines, including coalitions of parties.
 
