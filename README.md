@@ -11,7 +11,8 @@
 
 -) There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps):
 - While navigating the timelines, you will see superscripts next to locations: ¹ (cf. World map), ² (cf. Lebanon's map), or ³ (cf. Beirut's map)
-- In the maps, some locations will be in capital letters (=region), italic (=sea), regular characters (=city), or between brackets (=place)
+- In the maps, some locations will be in capital letters (=region/area), italic (=sea), regular characters (=city), or between brackets (=place)
+- In the maps, some locations have a "(H)" next to their name. This means they're historical locations that no longer exist today
 
 -) There is 1 plot of all political parties (not only Lebanese) which were mentioned in the 7 timelines, including coalitions of parties.
 
