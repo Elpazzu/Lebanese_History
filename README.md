@@ -13,6 +13,8 @@
 
 ** There is 1 plot of all political parties (not only Lebanese) which were mentioned in the 7 timelines, including coalitions of parties.
 
+** The online reference of every event that appears on the timeline, as well as the full description of abbreviations, acronyms and symbols that are used can be seen right under the timeline plots (in each of the 7 timelines).
+
 ** When an event that shows up on a given timeline is disputed, we add the '*' sign next to it.
 
 ** Users must be connected to the internet while navigating timelines, as interactive images from the web are often added for more context.
