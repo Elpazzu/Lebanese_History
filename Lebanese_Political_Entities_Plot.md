@@ -3,8 +3,8 @@ https://htmlpreview.github.io/?https://github.com/Elpazzu/Lebanese_History/blob/
 
 **You will also find below further info on the political coalitions mentioned in the plot:**
 
-Coalition: AL  
-Full name: Arab League / Jem3it el-Douwal el-3arabieh ;  
+Coalition: 'AL'  
+Full name: 'Arab League / Jem3it el-Douwal el-3arabieh' ;  
 Members: ADF, ALA ;  
 Founders: Bechara el-Khoury + Riad al-Solh + Reps. from Egypt+Iraq+Syria+Jordan ;  
 HQ: Cairo, Egypt ;  
@@ -58,4 +58,4 @@ Members: NB, SSNP, ARF ;
 Founders: Camille Chamoun + Pierre Gemayel ;  
 HQ: No official HQ ;  
 Religion: Mainly Christian (Maronite) ;  
-Note: Aim was to overthrow Bechara el-Khoury  
+Note: Aim was to overthrow Bechara el-Khoury
