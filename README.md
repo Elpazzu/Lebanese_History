@@ -1,4 +1,4 @@
-**WHAT? >>** This is a summary of the end-to-end history of Lebanon, from ancient times till the Beirut Port explosion in 2020.
+**WHAT? >>** This is a summary of the end-to-end history of Lebanon, from ancient times till August 4th 2020.
 
 **WHY? >>** There isn't a single, exhaustive and concise summary of Lebanon's history end-to-end... so here it is!
 
