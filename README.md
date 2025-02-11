@@ -14,7 +14,7 @@
 - In the maps, some locations will be in capital letters (=region/area), italic (=sea), regular characters (=city), or between brackets (=place)
 - In the maps, some locations have a "(H)" next to their name. This means they're historical locations that no longer exist today
 
--) There is 1 INTERACTIVE plot of all political parties, militias, and coalitions that were mentioned in the timelines:
+-) There is 1 INTERACTIVE plot [>> HERE <<](https://elpazzu.github.io/Lebanese_History/Lebanese_Politics_Plot.html) of all political parties, militias, and coalitions that were mentioned in the timelines:
 - You can click on legend items to only display specific visual artefacts for better visibility
 - You can hover over horizontal bars to see more info on the political party of militia (e.g., flag, full name, religion, ...)
 - To better visualize political parties and their directly associated militias, there are arrows on the y-axis AND thick red lines on the plot
