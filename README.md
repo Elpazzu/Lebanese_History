@@ -2,7 +2,7 @@
 
 **WHY? >>** There isn't a single, exhaustive and concise summary of Lebanon's history end-to-end... so here it is!
 
-**WHO? >>** It is meant for tech-oriented people with a spotty knowledge of Lebanon's history, aiming to further enrich it.
+**WHO? >>** It is for tech-oriented people with a spotty knowledge of Lebanon's history, aiming to further enrich it.
 
 **HOW? >>** By navigating the timelines within a Jupyter notebook, in a guided manner, while referring to the associated maps and plots for more context.
 
