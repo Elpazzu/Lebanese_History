@@ -1,13 +1,14 @@
-**Open this URL in a new tab:** https://htmlpreview.github.io/?https://github.com/Elpazzu/Lebanese_History/blob/data/Lebanese_Politics_Plot.html
+**Open this URL in a new tab:** 
+https://htmlpreview.github.io/?https://github.com/Elpazzu/Lebanese_History/blob/data/Lebanese_Politics_Plot.html
 
 **You will also find below further info on the political coalitions mentioned in the plot:**
 
-Coalition: AL ;
-Full name: Arab League / Jem3it el-Douwal el-3arabieh ;
-Members: [ADF, ALA] ;
-Founders: Bechara el-Khoury + Riad al-Solh + Reps. from Egypt+Iraq+Syria+Jordan ;
-HQ: Cairo, Egypt ;
-Religion: Multi-religious (Sunni-dominated)
+Coalition: AL  
+Full name: Arab League / Jem3it el-Douwal el-3arabieh ;  
+Members: ADF, ALA ;  
+Founders: Bechara el-Khoury + Riad al-Solh + Reps. from Egypt+Iraq+Syria+Jordan ;  
+HQ: Cairo, Egypt ;  
+Religion: Multi-religious (Sunni-dominated)  
 ---------------------------------------------------------------------------------
 Coalition: LFr ;
 Full name: Lebanese Front / El-Jabha el-Lebnenieh ;
