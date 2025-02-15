@@ -12,17 +12,14 @@
 -) The timelines are INTERACTIVE and designed as "stories" of sequential historical events. The 7 timelines are available in 1 Jupyter notebook, in sequence from the oldest to the most recent. You can launch the notebook in Binder and start navigating the timelines here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Elpazzu/Lebanese_History/main?urlpath=%2Fdoc%2Ftree%2FLebanon_Timeline.ipynb)  
 
 -) There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps):
-- While navigating the timelines, you will see superscripts next to locations: ¹ for [World Map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/World_Map.png), ² (cf. Lebanon's map), or ³ (cf. Beirut's map)
-- In the maps, some locations will be in capital letters (=region/area), italic (=sea), regular characters (=city), or between brackets (=place)
-- In the maps, some locations have a "(H)" next to their name. This means they're historical locations that no longer exist today
+- While navigating the timelines, you will see superscripts next to locations: ¹ for [World Map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/World_Map.png), ² for [Lebanon map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/Lebanon_Map.png) or ³ for [Beirut map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/Beirut_Map.png)
+- In the maps, locations can be in capital letters (=region/area), in italic (=sea), in regular font (=city), between brackets (=place), or with an "(H)" at the end (=historical location that no longer exists)
 
--) There is 1 INTERACTIVE plot of all political parties, militias, and coalitions that were mentioned in the timelines:
-- You can click on legend items to only display specific visual artefacts for better visibility
-- You can hover over horizontal bars to see more info on the political party of militia (e.g., flag, full name, religion, ...)
-- To better visualize political parties and their directly associated militias, there are arrows on the y-axis AND thick red lines on the plot
+-) There is 1 [INTERACTIVE plot of all political entities](https://htmlpreview.github.io/?https://github.com/Elpazzu/Lebanese_History/blob/data/Lebanese_Politics_Plot.html), including parties, militias and coalitions that got mentioned:
+- You can click on legend items to only display specific entities for better visibility
+- You can hover over horizontal bars to see more info on the political partirs & militias (e.g., flag, full name, religion...)
+- When a political party is directly associated with a militia, there are red lines on the plot linking the two
 
 -) The online reference of every event that appears on the timeline, as well as the full description of abbreviations, acronyms and symbols that are used can be seen right under the timeline plots (in each of the 7 timelines).
 
--) When an event that shows up on a given timeline is disputed, we add the '*' sign next to it.
-
--) Users must be connected to the internet while navigating timelines, as interactive images from the web are often added for more context.
+-) Users MUST BE CONNECTED TO INTERNET to be able to navigate the timelines
