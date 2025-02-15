@@ -17,7 +17,7 @@
 
 -) There is 1 [INTERACTIVE plot of all political entities](https://htmlpreview.github.io/?https://github.com/Elpazzu/Lebanese_History/blob/data/Lebanese_Politics_Plot.html), including parties, militias and coalitions that got mentioned:
 - You can click on legend items to only display specific entities for better visibility
-- You can hover over horizontal bars to see more info on the political partirs & militias (e.g., flag, full name, religion...)
+- You can hover over horizontal bars to see more info on the political partirs & militias (e.g., flag, religion...)
 - When a political party is directly associated with a militia, there are red lines on the plot linking the two
 
 -) The online reference of every event that appears on the timeline, as well as the full description of abbreviations, acronyms and symbols that are used can be seen right under the timeline plots (in each of the 7 timelines).
