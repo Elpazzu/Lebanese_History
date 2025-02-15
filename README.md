@@ -12,7 +12,7 @@
 -) The timelines are INTERACTIVE and designed as "stories" of sequential historical events. The 7 timelines are available in 1 Jupyter notebook, in sequence from the oldest to the most recent. You can launch the notebook in Binder and start navigating the timelines here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Elpazzu/Lebanese_History/main?urlpath=%2Fdoc%2Ftree%2FLebanon_Timeline.ipynb)  
 
 -) There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps):
-- While navigating the timelines, you will see superscripts next to locations: ¹ (cf. World map), ² (cf. Lebanon's map), or ³ (cf. Beirut's map)
+- While navigating the timelines, you will see superscripts next to locations: ¹ for [World Map]([https://mybinder.org/v2/gh/Elpazzu/Lebanese_History/main?urlpath=%2Fdoc%2Ftree%2FLebanon_Timeline.ipynb](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/World_Map.png)), ² (cf. Lebanon's map), or ³ (cf. Beirut's map)
 - In the maps, some locations will be in capital letters (=region/area), italic (=sea), regular characters (=city), or between brackets (=place)
 - In the maps, some locations have a "(H)" next to their name. This means they're historical locations that no longer exist today
 
