@@ -9,7 +9,7 @@
 ## Disclaimers
 -) All timelines are about events happening WITHIN PRESENT-DAY LEBANESE TERRITORY, with some exceptions for external events that are important to understand internal developments (e.g., PLO's attack in the Munich olympics triggered retaliations inside Lebanese territory).
 
--) Timelines are INTERACTIVE & designed as sequences of historical events (x-axis shows the time). The 7 timelines are chronologically configured within 1 Jupyter notebook. You can launch the notebook in Binder and start navigating the timelines here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Elpazzu/Lebanese_History/main?urlpath=%2Fdoc%2Ftree%2FLebanon_Timeline.ipynb)  
+-) Timelines are INTERACTIVE & designed as sequences of historical events (x-axis shows the time). The 7 timelines are chronologically configured within 1 Jupyter notebook. You can launch the notebook in [Google Collab URL](https://colab.research.google.com/github/Elpazzu/Lebanese_History/blob/main/Lebanon_Timeline.ipynb) 
 
 -) There are 3 maps showing all locations mentioned in the 7 timelines, including notable places (e.g., refugee camps):
 - While navigating the timelines, you will see superscripts next to locations: ¹ means that the location is shown in [World Map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/World_Map.png), ² in [Lebanon map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/Lebanon_Map.png) and ³ in [Beirut map](https://raw.githubusercontent.com/Elpazzu/Lebanese_History/data/Beirut_Map.png)
